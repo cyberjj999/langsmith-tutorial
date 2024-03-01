@@ -1,13 +1,10 @@
-# Siddhardhan YouTube Tutorials
-
-A series of machine learning projects taught by Siddhardhan (YouTuber)
+# LangSmith Tutorial - LLM Evaluation for Beginners
 
 Following YouTube Series:
 
--   https://www.youtube.com/watch?v=fiz1ORTBGpY&list=PLfFghEzKVmjvuSA67LszN1dZ-Dd_pkus6&ab_channel=Siddhardhan
+-   https://www.youtube.com/watch?v=tFXm5ijih98&t=560s&ab_channel=DaveEbbelaar
 
-## Project Breakdown
+Evaluating LLM outputs based on
 
--   **Project 1:** Binary Classification of Rock vs Mine using Sonar Data through Logistic Regression Algorithm
-
--   **Project 2:** Binary Classification of Diabetes vs No Diabetes using Patient Data through Support Vector Machine (SVM) Algorithm
+1. helpfuness, harmfulness, etc.
+2. Retrieval-Augmented Generation (RAG) performance given Question & Answer (QA)
